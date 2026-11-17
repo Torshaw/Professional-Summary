@@ -1,7 +1,7 @@
 Hi, I'm Abdulmuiz 👋
 
 
-Data Analyst | Excel • SQL • Power BI
+Data Analyst | Excel • SQL • Power BI • Python
 
 
 Data Analyst with practical training and hands-on project experience in Data Cleaning, Visualization, Analysis and Insight generation. 
