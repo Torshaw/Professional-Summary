@@ -6,9 +6,7 @@ Data Analyst | Excel • SQL • Power BI • Python
 
 Data Analyst with practical training and hands-on project experience in Data Cleaning, Visualization, Analysis and Insight generation. 
 
-Skilled in Microsoft Excel, Power BI, SQL, and Python with practical experience to prepare datasets, explore patterns, and communicate findings.
-
-Currently undertaking data analytics training at Ilorin Innovation Hub, applying analytical techniques to practical assignments and portfolio projects. Able to transform raw data into clear summaries that support informed decision-making.
+Skilled in Microsoft Excel, Power BI, SQL, and Python with practical experience to prepare datasets, explore patterns, communicate findings and able to transform raw data into clear summaries that support informed decision-making.
 
 🛠️ Skills & Tools
 
