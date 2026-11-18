@@ -54,8 +54,6 @@ A growing collection of SQL exercises exploring datasets and answering analytica
 Focus areas: SELECT statements, filtering, aggregations, GROUP BY, HAVING, and JOINs.
 
 
-Project links will be added as the repositories are published.
-
 
 🌱 Currently Growing
 
